@@ -1,0 +1,1 @@
+este curso tem sido muito interessante, no entanto eu estou com problemas para aprender rapidamente pois sou iniciante em git. Tenho apenas conhecimentos rasos em HTML e CSS, com apenas 2 projetos feitos para web. Mas espero conseguir me dar bem para ser selecionado!
